@@ -1,0 +1,8 @@
+[files]
+    [files."conf/test.txt"]
+         REMOVE = ["conf/test.sh","conf/run.sh"]
+#        RENAME = ["conf/test.sh","conf/run.sh"]
+#        CREATE = ["conf/test.sh","conf/run.sh"]
+#        WRITE = ["conf/test.sh","conf/run.sh"]
+#        CHMOD = ["conf/test.sh","conf/run.sh"]
+
